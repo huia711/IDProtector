@@ -23,7 +23,7 @@
 
 <br>
 
-**This is a pre-release of IDProtector. The repo will soon be migrated to [showlab](https://github.com/showlab) after cross-check.**
+**This is a PRE-RELEASE of IDProtector. The repo will soon be migrated to [showlab](https://github.com/showlab) after cross-check.**
 
 <br>
 
