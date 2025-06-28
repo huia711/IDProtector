@@ -23,7 +23,7 @@
 
 <br>
 
-This is a pre-release of IDProtector. The repo will be migrated to [showlab](https://github.com/showlab) after cross-check.
+**This is a pre-release of IDProtector. The repo will soon be migrated to [showlab](https://github.com/showlab) after cross-check.**
 
 <br>
 
@@ -42,15 +42,11 @@ pip install transformers huggingface-hub spaces numpy accelerate safetensors ome
 conda install -c conda-forge nccl
 ```
 
-### Initialize submodules
+### Clone this repo
 ```bash
+git clone https://github.com/yangpei-comp/IDProtector_Preview.git
 git submodule init
 git submodule update
-```
-
-After that, substitute certain files in the submodules:
-```bash
-mv utils/face_image_quality.py utils/FaceImageQuality/
 ```
 
 ### Download models
