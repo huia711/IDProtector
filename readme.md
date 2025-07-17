@@ -16,14 +16,8 @@
     <a href="https://arxiv.org/abs/2412.11638">
         <img src="https://img.shields.io/badge/arXiv-2412.11638-b31b1b.svg?logo=arXiv" alt="arXiv">
     </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Pre--Release-F27E3F" />
     <p>
 </div>
-
-<br>
-
-**This is a PRE-RELEASE of IDProtector. The repo will soon be migrated to [showlab](https://github.com/showlab) after cross-check.**
 
 <br>
 
