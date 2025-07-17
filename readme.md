@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <a href="https://scholar.google.com/citations?user=L2YS0jgAAAAJ&hl=en">Yiren Song</a><sup>&#42;</sup>&nbsp;, Pei Yang<sup>&#42;</sup>&nbsp;, <a href="https://scholar.google.com/citations?user=GMrjppAAAAAJ&hl=en">Hai Ci</a><sup>&#x2709</sup>, and <a href="https://sites.google.com/view/showlab">Mike Zheng Shou</a><sup>&#x2709</sup>
+    <a href="https://scholar.google.com/citations?user=L2YS0jgAAAAJ&hl=en">Yiren Song</a><sup>&#42;</sup>&nbsp;, <a href="https://scholar.google.com/citations?user=eBvav_0AAAAJ">Pei Yang</a><sup>&#42;</sup>&nbsp;, <a href="https://scholar.google.com/citations?user=GMrjppAAAAAJ&hl=en">Hai Ci</a><sup>&#x2709</sup>, and <a href="https://sites.google.com/view/showlab">Mike Zheng Shou</a><sup>&#x2709</sup>
 
 </div>
 
