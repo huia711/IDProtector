@@ -27,7 +27,13 @@
 
 <br>
 
-## Getting Started
+## ⭐ About
+
+<img src="assets/teaser.jpg" width="1024">
+
+IDProtector is a model that adds protective noise to images, such that if the protected image is used in encoder-based identity-preserving generation, the resulting face will no longer resemble the original, thus achieving privacy protection.
+
+## 🚀 Getting Started
 
 ### Pre-Requisite
  - Python 3.9.18: `conda create -n IDProtector python=3.9.18`
@@ -59,8 +65,7 @@ cp scripts/setup/model_setup_instantid.py generation_methods/InstantID/
 cd generation_methods/InstantID
 python model_setup_instantid.py
 ```
-5. Manually download the `./generation_methods/IP_Adapter/models` and `./generation_methods/IP_Adapter/sdxl_models` folders
-6. Download the IPAdapter models:
+5. Download the IPAdapter models:
 ```bash
 cd generation_methods/IP_Adapter
 git lfs install
@@ -68,9 +73,9 @@ git clone https://huggingface.co/h94/IP-Adapter
 mv IP-Adapter/models models
 mv IP-Adapter/sdxl_models sdxl_models
 ```
-7. Download the insightface model from [this link](https://drive.google.com/file/d/17fEWczMzTUDzRTv9qN3hFwVbkqRD7HE7/view?usp=sharing) and place it in `utils/FaceImageQuality/insightface/model`
+6. Download the insightface model from [this link](https://drive.google.com/file/d/17fEWczMzTUDzRTv9qN3hFwVbkqRD7HE7/view?usp=sharing) and place it in `utils/FaceImageQuality/insightface/model`
 
-## Inference
+## ⚡ Inference
 
 ### Run Complete Experiment
 
@@ -102,4 +107,16 @@ CUDA_VISIBLE_DEVICES=$cuda_index python -m scripts.evaluation.perturb_get_metric
 --metrics_save_path /path/to/output_dir/metrics.csv \
 --batch_size 1 \
 --cuda 0
+```
+
+## 📄 Citation
+
+```
+@inproceedings{song2025idprotector,
+    title={IDProtector: An Adversarial Noise Encoder to Protect Against ID-Preserving Image Generation},
+    author={Song, Yiren and Yang, Pei and Ci, Hai and Shou, Mike Zheng},
+    booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+    pages={3019--3028},
+    year={2025}
+}
 ```
