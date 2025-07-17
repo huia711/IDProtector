@@ -8,6 +8,10 @@
 </div>
 
 <div align="center">
+    <sup>&#42;</sup>Equal contribution &nbsp; <sup>&#x2709</sup>Corresponding author
+</div>
+
+<div align="center">
     <a href='https://sites.google.com/view/showlab/home?authuser=0' target='_blank'>Show Lab</a>, National University of Singapore
     <p>
 </div>
